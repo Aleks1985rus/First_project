@@ -3,7 +3,7 @@ html{
     height: 100%;
     margin: 0;
     padding: 0;
-    background-image: url(../image/bgGirl.gif);
+    background-image: url('../image/bgGirl.gif');
     background-size: 100% 100%;
     background-repeat: repeat-x;
     background-position: center center;
@@ -23,6 +23,13 @@ html{
     width: 100%;
     height: 100%;
 }
+
+
+
+a:hover{
+     color: red;
+}
+
 
 .footerBlock{
     width: 100%;
